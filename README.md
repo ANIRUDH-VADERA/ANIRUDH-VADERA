@@ -57,18 +57,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    | <a href="https://github.com/ANIRUDH-VADERA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Anirudhs's github stats" /></a> | <a href="https://github.com/ANIRUDH-VADERA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&theme=buefy&hide_border=true" /></a> |
+    | <a href="https://github.com/ANIRUDH-VADERA/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Anirudhs's github stats" /></a> | <a href="https://github.com/ANIRUDH-VADERA/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&theme=buefy&hide_border=true" /></a> |
     | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </details>
