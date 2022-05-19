@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋
+# Hi there, I'm Anirudh - aka [BooGEYMaN---->>][discord] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -103,10 +103,22 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+    | <a href="https://github.com/ANIRUDH-VADERA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Anirudhs's github stats" /></a> | <a href="https://github.com/ANIRUDH-VADERA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&theme=buefy&hide_border=true" /></a> |
+    | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </details>
+
+#### Top Repositories
+
+<a href="https://github.com/ANIRUDH-VADERA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=ANIRUDH-VADERA.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
@@ -118,3 +130,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[discord]:
+[steam]:
