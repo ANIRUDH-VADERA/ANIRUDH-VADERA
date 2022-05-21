@@ -1,6 +1,6 @@
 # Hi there, I'm Anirudh Vadera - aka [BooGEYMaN---->>][steam] 👋
 
-<img align="center" alt="profile" width="1400" height="300" class="rounded-corners" src="./img/github_profile.jfif">
+<img align="center" alt="profile" width="1200" height="300" class="rounded-corners" src="./img/github_profile.jfif">
 
 ## I'm a Developer, Gamer, Engineer, and a Weeb!!
 
