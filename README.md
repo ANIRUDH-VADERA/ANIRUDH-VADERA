@@ -15,8 +15,8 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/vadera_anirudh?t=hNau_XHJfKqxPJGMDxKC5g&s=08#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/vadera_anirudh?t=hNau_XHJfKqxPJGMDxKC5g&s=08#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anirudh-vadera-8836ba237/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anirudh-vadera-8836ba237/#gh-dark-mode-only)
@@ -24,7 +24,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook.png)](https://www.facebook.com/anirudh.vadera.7//codeSTACKr)
+[![website](./img/facebook.png)](https://www.facebook.com/anirudh.vadera.7/)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
