@@ -24,7 +24,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img alt="website" src="./img/facebook.png" style="width:35px;height:35px" />](https://www.facebook.com/anirudh.vadera.7/)
+[<img alt="website" src="./img/facebook.png" style="width:25px;height:25px" />](https://www.facebook.com/anirudh.vadera.7/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
