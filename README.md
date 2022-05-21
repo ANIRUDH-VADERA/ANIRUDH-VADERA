@@ -24,7 +24,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-f-brands.svg)](https://www.facebook.com/anirudh.vadera.7//codeSTACKr)
+[![website](./img/facebook-brands.svg)](https://www.facebook.com/anirudh.vadera.7//codeSTACKr)
 
 ### Languages and Tools:
 
