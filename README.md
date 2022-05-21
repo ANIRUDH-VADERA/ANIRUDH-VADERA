@@ -24,8 +24,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anirudhvadera/?hl=en#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook.png)](https://www.facebook.com/anirudh.vadera.7/)
-[<img alt="website" width="26px" src="./img/facebook.png" style="padding-right:50px;width:50px;height:10px" />](https://www.facebook.com/anirudh.vadera.7/)
+[<img alt="website" width="26px" src="./img/facebook.png" style="padding-right:50px;width:35px;height:60px" />](https://www.facebook.com/anirudh.vadera.7/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
