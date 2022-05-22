@@ -72,7 +72,7 @@ General:
 
 ---
 
-### Github Profile
+### Github Profile 📊
 
 <p> <img src="https://komarev.com/ghpvc/?username=ANIRUDH-VADERA&label=Profile%20views&style=flat" alt="eshan1925" align="left" height=27px width=130px /></p><br><br>
 
@@ -90,11 +90,33 @@ General:
 
 ---
 
+# Productivity Stats 📈:
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apurva-tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Apurva-tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
+---
+
 #### Top Repositories
 
 <a href="https://github.com/ANIRUDH-VADERA/WEB_ASSISSTANT"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=WEB_ASSISSTANT&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 <a href="https://github.com/ANIRUDH-VADERA/Entertaintment-Hub"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 <br>
+
+---
+
+#### Watch my contributions being eaten by a snake 😢
+
+<p align="center">
+  <img src="https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 [twitter]: https://twitter.com/vadera_anirudh?t=s1-WMFJPoU78f2IvSQ2qaA&s=08
 [instagram]: https://www.instagram.com/anirudhvadera/
