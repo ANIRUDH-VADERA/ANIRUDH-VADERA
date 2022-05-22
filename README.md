@@ -97,6 +97,10 @@ General:
 <a href="https://github.com/ANIRUDH-VADERA/Entertaintment-Hub"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 <br>
 
+---
+
+<img align="center" src="/github-metrics.svg" alt="Metrics">
+
 [twitter]: https://twitter.com/vadera_anirudh?t=s1-WMFJPoU78f2IvSQ2qaA&s=08
 [instagram]: https://www.instagram.com/anirudhvadera/
 [linkedin]: https://www.linkedin.com/in/anirudh-vadera-8836ba237/
