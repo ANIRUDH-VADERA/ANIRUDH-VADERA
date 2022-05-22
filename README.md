@@ -49,7 +49,7 @@
 - ServerSide Development:
 
 <img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img  src="./img/express-logo.png" alt="express" width="48" height="35" />
+<img  src="./img/express-logo.png" alt="express" width="45" height="30" />
 
 - BackEnd:
 
@@ -83,21 +83,23 @@ General:
 
 ### Github Stats
 
-<p align="center" ><img align="left" alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </p>
+<p align="center" ><img  alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</p>
 
 ---
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[steam]: https://steamcommunity.com/id/BooGEYMaN___/
+#### Top Repositories
 
-[vit]:
-[discord]:
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=WEB_ASSISSTANT&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+---
+
+[website]:
+[course]:
+[twitter]: https://twitter.com/vadera_anirudh?t=s1-WMFJPoU78f2IvSQ2qaA&s=08
+[youtube]:
+[instagram]: https://www.instagram.com/anirudhvadera/
+[linkedin]: https://www.linkedin.com/in/anirudh-vadera-8836ba237/
+[steam]: https://steamcommunity.com/id/BooGEYMaN___/
