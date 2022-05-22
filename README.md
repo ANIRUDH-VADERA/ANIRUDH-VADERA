@@ -21,7 +21,7 @@
 [![website](./img/github-light.svg)](https://github.com/ANIRUDH-VADERA#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/ANIRUDH-VADERA#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img alt="website" src="./img/steamlogo.jpeg" style="border-radius:100%;width:5%;height:5%;background-color:black !important;" />](https://steamcommunity.com/id/BooGEYMaN___/)
+[<img alt="website" src="./img/steamlogo.jpeg" style="border-radius:100%;width:3%;height:3%;background-color:black !important;" />](https://steamcommunity.com/id/BooGEYMaN___/)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vadera_anirudh?t=hNau_XHJfKqxPJGMDxKC5g&s=08#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vadera_anirudh?t=hNau_XHJfKqxPJGMDxKC5g&s=08#gh-dark-mode-only)
