@@ -114,9 +114,7 @@ General:
 
 #### Watch my contributions being eaten by a snake 😢
 
-<p align="center">
-  <img src="https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![snake gif](https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA/blob/output/github-contribution-grid-snake.gif)
 
 [twitter]: https://twitter.com/vadera_anirudh?t=s1-WMFJPoU78f2IvSQ2qaA&s=08
 [instagram]: https://www.instagram.com/anirudhvadera/
