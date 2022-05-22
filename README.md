@@ -83,18 +83,16 @@ General:
 
 ### Github Stats
 
-<p ><img  alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> 
+<img align="left" alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true" /> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</p>
-
+<br>
 ---
 
 #### Top Repositories
 
 <a href="https://github.com/ANIRUDH-VADERA/WEB_ASSISSTANT"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=WEB_ASSISSTANT&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 <a href="https://github.com/ANIRUDH-VADERA/Entertaintment-Hub"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
-
----
+<br>
 
 [twitter]: https://twitter.com/vadera_anirudh?t=s1-WMFJPoU78f2IvSQ2qaA&s=08
 [instagram]: https://www.instagram.com/anirudhvadera/
