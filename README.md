@@ -100,3 +100,4 @@ General:
 [instagram]: https://www.instagram.com/anirudhvadera/
 [linkedin]: https://www.linkedin.com/in/anirudh-vadera-8836ba237/
 [steam]: https://steamcommunity.com/id/BooGEYMaN___/
+[vit]: https://vit.ac.in/
