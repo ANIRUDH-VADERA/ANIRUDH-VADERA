@@ -49,11 +49,11 @@
 - ServerSide Development:
 
 <img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img  src="./img/express-logo.png" alt="express" width="50" height="28" />
 
 - BackEnd:
 
 <img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img  alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 
 - Programming:
 
@@ -76,7 +76,7 @@ General:
 
 <p> <img src="https://komarev.com/ghpvc/?username=ANIRUDH-VADERA&label=Profile%20views&style=flat" alt="eshan1925" align="left" height=27px width=130px /></p><br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ANIRUDH-VADERA&row=1&column=7&margin-w=15&margin-h=15&theme=onedark" alt="ANIRUDH-VADERA" /></a>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANIRUDH-VADERA&row=1&column=7&margin-w=15&margin-h=15&theme=onedark" alt="ANIRUDH-VADERA" /></a> </p>
 
 ---
 
