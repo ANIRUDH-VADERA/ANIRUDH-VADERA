@@ -90,6 +90,18 @@ General:
 
 ---
 
+# Productivity Stats 📈:
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANIRUDH-VADERA&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=ANIRUDH-VADERA&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
 ---
 
 #### Top Repositories
@@ -100,9 +112,9 @@ General:
 
 ---
 
-#### Watch my contributions being eaten by a snake 😢
+#### Watch my contribution graph get eaten by a snake 🐍
 
-![snake gif](https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA/blob/output/github-contribution-grid-snake.svg)
 
 [twitter]: https://twitter.com/vadera_anirudh?t=s1-WMFJPoU78f2IvSQ2qaA&s=08
 [instagram]: https://www.instagram.com/anirudhvadera/
