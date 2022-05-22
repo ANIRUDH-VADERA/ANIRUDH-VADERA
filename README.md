@@ -85,7 +85,7 @@ General:
 <p align="center"><img  alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true"  height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDH-VADERA&theme=highcontrast&hide_border=true" alt="eshan1925" height=200px width=400px/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&exclude_repo=Appathon-Website-2021,Appathon_Website,Space_Exploration" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&exclude_repo=Appathon-Website-2021,Appathon_Website,Space_Exploration&langs_count=10" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ANIRUDH-VADERA&theme=highcontrast&hide_border=true" alt="eshan1925" height=200px width=400px/>
 </p>
 
 ---
