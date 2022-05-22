@@ -49,7 +49,7 @@
 - ServerSide Development:
 
 <img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img  src="./img/express-logo.png" alt="express" width="45" height="30" />
+<img  src="./img/express-logo.png" alt="express" width="50" height="28" />
 
 - BackEnd:
 
@@ -92,7 +92,7 @@ General:
 #### Top Repositories
 
 <a href="https://github.com/ANIRUDH-VADERA/WEB_ASSISSTANT"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=WEB_ASSISSTANT&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
-<a href="https://github.com/ANIRUDH-VADERA/Entertaintment-Hub"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
+<a href="https://github.com/ANIRUDH-VADERA/Entertaintment-Hub"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 
 ---
 
