@@ -49,7 +49,7 @@
 - ServerSide Development:
 
 <img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img  src="./img/express-logo.png" alt="express" width="28" />
+<img  src="./img/express-logo.png" alt="express" width="38" height="40" />
 
 - BackEnd:
 
