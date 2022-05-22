@@ -5,12 +5,14 @@
 ## I'm a Developer, Gamer, Engineer, and a Weeb!!
 
 - 🏫 I'm cuurently pursuing B-TECH in Computer Science at [VIT,Vellore University.][vit]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking forward to get a Internship
 - 👀 I'm a night coder.
+- 💬 Ask me about DSA, Web Development
 - 🥅 2022 Goals: Learn more about ThreeJS,Backend Development,Desktop Applications and MERN Stack.
 - ⚡ Fun fact: I love to play Football, play video games, watch web series.
-- 💞️ I’m looking to collaborate on some interesting projects.
+- 💞️ I’m looking to collaborate on some interesting projects and Hackathons.
+- 📫 Reach me at : anirudhvadera@gmail.com
 
 ---
 
@@ -72,7 +74,7 @@ General:
 
 ---
 
-## Github Profile 📊
+## Github Profile 📊:
 
 <p> <img src="https://komarev.com/ghpvc/?username=ANIRUDH-VADERA&label=Profile%20views&style=flat" alt="eshan1925" align="left" height=27px width=130px /></p><br><br>
 
@@ -80,7 +82,7 @@ General:
 
 ---
 
-## Github Stats
+## Github Stats:
 
 <p align="center"><img  alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true"  height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDH-VADERA&theme=highcontrast&hide_border=true" alt="eshan1925" height=200px width=400px/>
 </p>
@@ -104,7 +106,7 @@ General:
 
 ---
 
-## Top Repositories
+## Top Repositories:
 
 <a href="https://github.com/ANIRUDH-VADERA/WEB_ASSISSTANT"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=WEB_ASSISSTANT&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 <a href="https://github.com/ANIRUDH-VADERA/Entertaintment-Hub"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDH-VADERA&repo=Entertaintment-Hub&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
@@ -112,7 +114,7 @@ General:
 
 ---
 
-## Watch my contribution graph get eaten by a snake 🐍
+## Watch my contribution graph get eaten by a snake 🐍:
 
 ![snake gif](https://github.com/ANIRUDH-VADERA/ANIRUDH-VADERA/blob/output/github-contribution-grid-snake.svg)
 
