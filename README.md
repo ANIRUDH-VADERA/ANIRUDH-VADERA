@@ -76,7 +76,7 @@ General:
 
 ## Github Profile 📊:
 
-<p> <img src="https://komarev.com/ghpvc/?username=ANIRUDH-VADERA&label=Profile%20views&style=flat" alt="eshan1925" align="left" height=27px width=130px /></p><br><br>
+<p> <img src="https://komarev.com/ghpvc/?username=ANIRUDH-VADERA&label=Profile%20views&style=flat" alt="" align="left" height=27px width=130px /></p><br><br>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANIRUDH-VADERA&row=1&column=7&margin-w=15&margin-h=15&theme=onedark" alt="ANIRUDH-VADERA" /></a> </p>
 
@@ -84,7 +84,7 @@ General:
 
 ## Github Stats:
 
-<p align="center"><img  alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true"  height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDH-VADERA&theme=highcontrast&hide_border=true" alt="eshan1925" height=200px width=400px/>
+<p align="center"><img  alt="ANIRUDH-VADERA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-VADERA&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true"  height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDH-VADERA&theme=highcontrast&hide_border=true" alt="" height=200px width=400px/>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDH-VADERA&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&exclude_repo=Appathon-Website-2021,Appathon_Website,Space_Exploration&langs_count=10" />
