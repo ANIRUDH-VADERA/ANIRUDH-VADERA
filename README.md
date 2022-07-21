@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Gamer, Engineer, and a Weeb!!
 
-- 🏫 I'm cuurently pursuing B-TECH in Computer Science at [VIT,Vellore University.][vit]
+- 🏫 I'm curently pursuing B-TECH in Computer Science at [VIT,Vellore University.][vit]
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking forward to get a Internship
 - 👀 I'm a night coder.
