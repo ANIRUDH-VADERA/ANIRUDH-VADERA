@@ -4,15 +4,15 @@
 
 ## I'm a Developer, Gamer, Engineer, and a Weeb!!
 
-- 🏫 I'm curently pursuing B-TECH in Computer Science at [VIT,Vellore University.][vit]
-- 🌱 I’m currently learning Competitive Coding, DSA, and Backend
-- 👯 I’m looking forward to get a Internship
-- 👀 I'm a night coder.
+- 🏫 I'm a final year student pursuing B-TECH in Computer Science at [VIT,Vellore University.][vit]
+- 🌱 I’m currently learning Competitive Coding, DSA, and Chrome Extensions
+- 👯 I’m looking forward to get a Placement(SDE ROLE).
+- 👀 I'm a night coder and I love to build utility apps.
 - 💬 Ask me about DSA, Web Development
-- 🥅 2022 Goals: Learn more about ThreeJS,Backend Development,Desktop Applications and MERN Stack.
-- ⚡ Fun fact: I love to play Football, play video games, watch web series.
+- 🥅 2023 Goals: Learn more about ThreeJS, Desktop Applications, and have a strong hold on DSA skills.
+- ⚡ Fun fact: I love to play Football, play video games, and watch web series.
 - 💞️ I’m looking to collaborate on some interesting projects and Hackathons.
-- 📫 Reach me at : anirudhvadera@gmail.com
+- 📫 Reach me at: anirudhvadera@gmail.com
 
 ---
 
