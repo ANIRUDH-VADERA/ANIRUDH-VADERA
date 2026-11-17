@@ -4,7 +4,7 @@
 
 [Portfolio](https://anirudh-vadera.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/anirudh-vadera-8836ba237/) · [LeetCode](https://leetcode.com/u/anirudh00711/) · [Email](mailto:anirudhvadera@gmail.com)
 
-I build production systems where correctness, scale, and operational clarity matter. I own services in Walmart's financial ledger, which journals **~$2B a day (~$700B a year)** across **100M+ transactions/day**, working across Kafka, Spark, GCP, and PostgreSQL in Scala, Java, and Python.
+I build production systems where correctness, scale, and operational clarity matter. I own services in Walmart's financial ledger, which journals **85% of Walmart's revenue (~$600B a year, peak ~$2B a day)** across **100M+ transactions/day**, working across Kafka, Spark, GCP, and PostgreSQL in Scala, Java, and Python.
 
 <p align="center">
     <img alt="Anirudh Vadera profile banner" width="100%" src="./img/github_profile.jfif" />
@@ -23,23 +23,27 @@ I build production systems where correctness, scale, and operational clarity mat
 
 | Initiative | Impact |
 | --- | --- |
-| **LATAM Ledger Expansion** | Expanded the ledger to **6 LATAM countries** and **200+ sources** with per-country isolation across Kafka, GCS, and PostgreSQL; posted **10M transactions in 7 days**. |
-| **Balanced SAP Document Splitting** | Split multi-currency journals into balanced SAP documents under hard limits (max 995 line items, each under the 99.99B local-currency cap) with FX conversion: **zero rejections across 100K documents**. |
-| **Streaming Acknowledgements** | Replaced an hourly batch with a **sub-second** Kafka and Spark Streaming pipeline delivering acks for **100M transactions/day**. |
-| **Ending Inventory Reconciliation (Java)** | Event-driven, line-item-level design that cut processing from **1–2 hours to 3–5 minutes**. |
-| **Audit Event Listener** | Scala/ZIO service with REST APIs and Pekko parallel processing, load-tested to **100K events/s**; per-event latency from **~5 s to sub-second**. |
+| **LATAM Ledger Expansion** | Expanded the ledger to **6 LATAM countries** (10% of global business) and **200+ sources** with per-country fault isolation across Kafka, GCS, and PostgreSQL; posted **100M transactions to SAP in 7 days**. |
+| **Balanced SAP Document Splitting** | Algorithm that splits multi-currency journals into balanced documents (max 995 line items, each under SAP's 99.99B currency limit) with exchange-rate conversion: **zero rejections across 100K documents**. |
+| **Streaming Acknowledgements** | Re-architected hourly batch acknowledgements into a Kafka and Spark Streaming pipeline for **100M transactions/day**, delivering acks in **under a second instead of up to 60 minutes**. |
+| **Audit Event Listener** | Scala/ZIO service handling **100K events/s** with Pub/Sub backpressure, idempotent dedup, and stuck-event recovery; latency from **~5s to 100ms**, and a 100K-message backlog cleared 3 hours faster. |
+| **Ending Inventory Reconciliation (Java)** | Event-driven, line-item-level pipeline that cut processing from **1–2 hours to 3–5 minutes**, delivered under a tight deadline with SAP, source-system, and controllership teams. |
 | **PySpark-to-PostgreSQL Upsert** | **3 hours to 13 minutes** by bulk-loading with COPY into unlogged staging tables to skip WAL overhead. |
-| **Cloud Storage Archival** | Archived **104 TB** of ledger data, saving **$45,000 per year**. |
-| **Regression Testing Library** | Ran in CI across **128+ repositories**, cutting production failures by **50%**. |
+| **Lead Company Code Derivation** | 7 derivation strategies for batch tax assignment, improving tax accuracy by **20%**. |
+| **Cloud Storage Archival** | Archived **104 TB** of 13+ month-old ledger data, saving **$45,000 per year** in storage and BigQuery costs. |
+| **Regression Testing Library** | Covered 50+ business rules across **128+ repositories** in CI, cutting production failures by **50%** and release cycles by 30%. |
+| **Real-Time Reconciliation and Alerting** | Akka-based reconciliation, error-log alerting, and automated incident creation, cutting time to detect by **90%**. |
 
 ## Core Stack
 
 - **Languages:** Scala, Java, Python, SQL
-- **Backend and Distributed Systems:** Microservices, REST APIs, Event-Driven Architecture, Akka/Pekko, ZIO
-- **Streaming and Data:** Kafka, Spark, Spark Streaming, PySpark, Pub/Sub, Airflow, PostgreSQL, BigQuery
-- **Cloud and DevOps:** GCP, Docker, Kubernetes, Terraform, Jenkins, ArgoCD
-- **Testing and Observability:** ScalaTest, Mockito, integration and load testing, Grafana, Splunk, Apache Superset
-- **AI:** LLMs, RAG, vector databases, knowledge graphs
+- **Databases:** PostgreSQL (HikariCP, Flyway), MySQL, BigQuery
+- **Backend and Distributed Systems:** Microservices, REST APIs, Event-Driven Architecture, Akka, ZIO, Apache Camel
+- **Big Data and Streaming:** Kafka, Spark, Spark Streaming, Spark SQL, PySpark, Pub/Sub, Airflow, Dataproc
+- **Cloud and DevOps:** Google Cloud Platform, Cloud Run Functions, Dataflow, Docker, Kubernetes, Helm, Terraform
+- **CI/CD and Observability:** Jenkins, ArgoCD, Git, Prometheus, Grafana, OpenTelemetry, Splunk, Superset, Tableau
+- **AI:** LLMs, NLP, RAG, ChromaDB, FAISS, AI Agents, MCP
+- **Testing:** ScalaTest, Mockito, integration and load testing
 
 ## Ask Me About
 
