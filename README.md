@@ -55,3 +55,25 @@ I build production systems where correctness, scale, and operational clarity mat
 - **Making a Difference Award**, Walmart Global Tech, FY2025
 - Finalist, Walmart FDF AI Hackathon and DevJams'21 (Google Developer Student Clubs VIT)
 - B.Tech in Computer Science, Vellore Institute of Technology (CGPA 9.53/10)
+
+## GitHub Stats
+
+<p>
+    <img src="https://komarev.com/ghpvc/?username=ANIRUDH-VADERA&label=Profile%20views&style=flat" alt="Profile views" height="27" width="130" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANIRUDH-VADERA&theme=radical" alt="GitHub profile stats" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=ANIRUDH-VADERA&theme=highcontrast&hide_border=true" alt="GitHub streak stats" height="165" />
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANIRUDH-VADERA&theme=radical" alt="Repos per language" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANIRUDH-VADERA&theme=radical" alt="Most committed languages" height="165" />
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANIRUDH-VADERA&theme=radical" alt="GitHub contribution profile details" width="100%" />
+</p>
+
+<p align="center">
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/ANIRUDH-VADERA/ANIRUDH-VADERA/output/github-contribution-grid-snake-dark.svg" />
+</p>
